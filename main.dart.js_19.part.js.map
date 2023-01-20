@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_19.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../lib/src/controls/surfaces/info_bar.dart","../../../../lib/src/controls/inputs/buttons/theme.dart","../../../../lib/src/controls/utils/hover_button.dart","../../../../lib/src/styles/theme.dart","../../../../lib/l10n/generated/fluent_localizations.dart","/opt/hostedtoolcache/flutter/3.3.10-stable/x64/packages/flutter/lib/src/widgets/basic.dart","org-dartlang-sdk:///lib/_internal/js_runtime/lib/late_helper.dart","/opt/hostedtoolcache/flutter/3.3.10-stable/x64/packages/flutter/lib/src/painting/box_decoration.dart"],
+  "names": ["InfoBarThemeData.standard","ButtonState.all","InfoBarSeverity.toString","InfoBar.build","InfoBarTheme.of","InfoBar.build.<anonymous function>","InfoBarThemeData.standard.<anonymous function>","","all","of","value","readLocal"],
+  "mappings": "A;;GAqWUA,IACNA;OAZIA,SAmBUA,aAqCDA,aAZLA,YChYJA,yBCuUNC,mBFwD2BD,MC/XrBA,mBCuUNC,UFkFqCD,iBAxDlBA,IA8DnBA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;CApUGE,mCAYLA,C;;CA+DSC,IGpJEA,wDAA0DA,KCoE5CA,QAAiCA;CAAoBA;AJiO5DA;AACUA,QGtSjBC,MAA0DA;AAA1DA,QAA0DA;AHsSzCD,OACiBA,KA9IFA;IAC1BA,OAAsBA;kBAAWA;GACtBA;GAIPA,EAAWA;cAAoBA;AKkqD5CA,YLpqDaA,IACRA,MAEOA;AAGAA,iBAMfA;AACcA,iBAMdA;GAGmBA;kBAAiBA;GACpBA;cAAiBA;GAI1BA;KAA4BA,IAA2BA;;AACjDA;AACRA,eAGmCA;AAJ3BA,OKwoDVA,ULroDqBA,IACRA,iBAAwBA,MAAgBA,WAEnDA,MAKgBA;AAERA,WAFQA,OK6nDlBA,ULznD6BA;AAGnBA,WAPQA,OK6nDlBA,ULpnD6BA;AApBnBA,OKyrJVA,gBLjrJaA,QATmBA,UAFLA,aAkCTA;AAERA,WAFQA;AAGRA,WAHQA,OKymDlBA,ULpmD6BA;AApCnBA,OKyrJVA,gBL7pJaA,YACkCA,0BAapBA,UAIIA;AA9CrBA,OKwoDVA,UL5lDqBA,IACRA,KAEEA,aACCA,UAA4BA,SACvBA,IACEA,qBA1D3BA,OAAOA,OAIEA,gBACsBA,eAJVA,sBAgEvBA,C;;;EA/EkBE,oBAGLA,EAAMA,EAAWA;WADnBA,GACiCA;AADxCA,gBAEcA,2BAEfA,C;;;EACcA,aACJA;AAATA,WAAyBA,WAK1BA;AAJCA,OAAmBA,OAEKA,UAAIA,EAAMA,IAEnCA,C;;;EAqKaC,IACCA;oBMnTfA,INsTgBA,EAAMA,GAAUA;AACxBA;QMvTRA,INyTgBA,EAAMA,GAAUA;AACxBA;QM1TRA,IN4TgBA,EAAMA,GAAUA;AACxBA;QM7TRA,IN+TgBA,EAAMA,GAAUA;AACxBA,MMjVUA;ANqVeA;AAF7BA,OOvSAA,aP0SiBA,MACNA,EAAMA,GAAUA,gBO3S3BA,GP8SDA,C;;;EAEKA,uBAGAA,QAAmBA,GAQxBA;OANKA,QAAmBA,GAMxBA;OAJKA,QAAaA,GAIlBA;OAFKA,QAAaA,GAElBA,E;;;EACUA,IACTA;mBAEiBA,GAANA;AAAPA,QAAaA,OAAkCA,IAQpDA;OANKA,QAAOA,EAAMA,GAAUA,GAM5BA;OAJKA,QAAOA,EAAMA,GAAUA,GAI5BA;OAFKA,QAAOA,EAAMA,GAAUA,GAE5BA,E",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "0LAsWWOS;sCA2DaAyB;AACMCAEhHaDmB,A;MF4GxBAmB;AACUCAE7GcDU,A;ifFnIbE6D;AACgBA4B;AACfAiBA6IkBAU,AAChBAW,Y;kFA3IfFY;oMA+BNAU;2EAYQAU;4BAKAAU;iBAZRAgB;mFA4BQAU;iBARRAY;AApBAAI;iEAoCAAU;8cAqHAGI;uBAGAAI;uBAGAAI;uBAGAAI;eAIKCS;iBADFJa;2BAAAAG;"
+  }
+}
